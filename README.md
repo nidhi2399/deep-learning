@@ -1,2 +1,2 @@
 # deep-learning
-assignment 1
+assignments
